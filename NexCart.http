@@ -1,0 +1,6 @@
+@NexCart_HostAddress = http://localhost:5103
+
+GET {{NexCart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
